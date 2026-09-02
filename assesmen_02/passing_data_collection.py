@@ -262,7 +262,13 @@ plt.xlabel("Match Result")
 plt.ylabel("Passing Accuracy (%)")
 
 plt.tight_layout()
-plt.savefig("passing_accuracy_boxplot.png", dpi=300)
+plt.savefig(
+    os.path.join(
+        output_dir,
+        "passing_accuracy_boxplot.png"
+    ),
+    dpi=300
+)
 plt.show()
 # -----------------------------
 # Match-level passing differences
