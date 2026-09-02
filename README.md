@@ -19,10 +19,10 @@ The project analyses FIFA World Cup 2026 data using four distinct analytic tasks
 - FBref
 
 ## Group Members
-- Member 1
-- Member 2
-- Member 3
-- Member 4
+Saurab Kumar Sunuwar
+Bibek Gurung 
+Anish Bhattarai
+Swagata Dey Shuvo
 
 ## Repository Structure
 - `data/raw` – original datasets
