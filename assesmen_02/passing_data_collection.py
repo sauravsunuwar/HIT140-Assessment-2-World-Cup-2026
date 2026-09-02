@@ -3,6 +3,9 @@ import requests
 import pandas as pd
 import matplotlib.pyplot as plt
 from scipy import stats
+import os
+
+output_dir = os.path.dirname(os.path.abspath(__file__))
 
 headers = {
     "User-Agent": (
@@ -190,7 +193,10 @@ df["passing_accuracy"] = (
     df["passes_completed"] / df["total_passes"] * 100
 ).round(2)
 print(df)
-df.to_csv("passing_dataset.csv", index=False)
+df.to_csv(
+    os.path.join(output_dir, "passing_dataset.csv"),
+    index=False
+)
 
 print("Dataset saved successfully.")
 # -----------------------------
@@ -288,6 +294,9 @@ match_differences = winner_data.merge(
 match_differences["accuracy_difference"] = (
     match_differences["winner_accuracy"]
     - match_differences["loser_accuracy"]
+)
+match_differences["accuracy_difference"] = (
+    match_differences["accuracy_difference"].round(2)
 )
 
 print("\n--- MATCH-LEVEL DIFFERENCES ---")
@@ -473,14 +482,20 @@ plt.legend()
 plt.tight_layout()
 
 plt.savefig(
-    "sample_passing_accuracy_difference.png",
+    os.path.join(
+        output_dir,
+        "sample_passing_accuracy_difference.png"
+    ),
     dpi=300
 )
 
 plt.show()
 
 sampled_matches.to_csv(
-    "passing_random_sample_50.csv",
+    os.path.join(
+        output_dir,
+        "passing_random_sample_50.csv"
+    ),
     index=False
 )
 

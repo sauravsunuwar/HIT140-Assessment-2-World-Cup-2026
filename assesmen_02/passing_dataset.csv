@@ -1,0 +1,209 @@
+match_id,team,opponent,total_passes,passes_completed,result,stage,passing_accuracy
+400021443,Mexico,South Africa,547,495,Win,First Stage,90.49
+400021443,South Africa,Mexico,351,290,Loss,First Stage,82.62
+400021441,Korea Republic,Czechia,542,483,Win,First Stage,89.11
+400021441,Czechia,Korea Republic,327,241,Loss,First Stage,73.7
+400021449,Canada,Bosnia and Herzegovina,412,316,Draw,First Stage,76.7
+400021449,Bosnia and Herzegovina,Canada,279,186,Draw,First Stage,66.67
+400021458,USA,Paraguay,602,520,Win,First Stage,86.38
+400021458,Paraguay,USA,316,234,Loss,First Stage,74.05
+400021447,Qatar,Switzerland,289,213,Draw,First Stage,73.7
+400021447,Switzerland,Qatar,591,542,Draw,First Stage,91.71
+400021456,Brazil,Morocco,514,457,Draw,First Stage,88.91
+400021456,Morocco,Brazil,503,431,Draw,First Stage,85.69
+400021453,Haiti,Scotland,431,378,Loss,First Stage,87.7
+400021453,Scotland,Haiti,397,324,Win,First Stage,81.61
+400021463,Australia,Türkiye,293,224,Win,First Stage,76.45
+400021463,Türkiye,Australia,722,663,Loss,First Stage,91.83
+400021464,Germany,Curaçao,641,569,Win,First Stage,88.77
+400021464,Curaçao,Germany,362,291,Loss,First Stage,80.39
+400021470,Netherlands,Japan,529,473,Draw,First Stage,89.41
+400021470,Japan,Netherlands,356,302,Draw,First Stage,84.83
+400021467,Côte d'Ivoire,Ecuador,471,413,Win,First Stage,87.69
+400021467,Ecuador,Côte d'Ivoire,513,438,Loss,First Stage,85.38
+400021474,Sweden,Tunisia,356,290,Win,First Stage,81.46
+400021474,Tunisia,Sweden,370,299,Loss,First Stage,80.81
+400021482,Spain,Cabo Verde,811,755,Draw,First Stage,93.09
+400021482,Cabo Verde,Spain,306,227,Draw,First Stage,74.18
+400021478,Belgium,Egypt,476,404,Draw,First Stage,84.87
+400021478,Egypt,Belgium,413,330,Draw,First Stage,79.9
+400021486,Saudi Arabia,Uruguay,331,243,Draw,First Stage,73.41
+400021486,Uruguay,Saudi Arabia,623,566,Draw,First Stage,90.85
+400021476,IR Iran,New Zealand,417,333,Draw,First Stage,79.86
+400021476,New Zealand,IR Iran,448,378,Draw,First Stage,84.38
+400021490,France,Senegal,584,516,Win,First Stage,88.36
+400021490,Senegal,France,521,453,Loss,First Stage,86.95
+400021488,Iraq,Norway,347,286,Loss,First Stage,82.42
+400021488,Norway,Iraq,548,493,Win,First Stage,89.96
+400021496,Argentina,Algeria,578,517,Win,First Stage,89.45
+400021496,Algeria,Argentina,634,578,Loss,First Stage,91.17
+400021498,Austria,Jordan,587,499,Win,First Stage,85.01
+400021498,Jordan,Austria,344,254,Loss,First Stage,73.84
+400021502,Portugal,Congo DR,804,740,Draw,First Stage,92.04
+400021502,Congo DR,Portugal,268,214,Draw,First Stage,79.85
+400021507,England,Croatia,482,421,Win,First Stage,87.34
+400021507,Croatia,England,459,399,Loss,First Stage,86.93
+400021510,Ghana,Panama,362,304,Win,First Stage,83.98
+400021510,Panama,Ghana,597,526,Loss,First Stage,88.11
+400021504,Uzbekistan,Colombia,334,267,Loss,First Stage,79.94
+400021504,Colombia,Uzbekistan,534,469,Win,First Stage,87.83
+400021440,Czechia,South Africa,352,279,Draw,First Stage,79.26
+400021440,South Africa,Czechia,584,518,Draw,First Stage,88.7
+400021446,Switzerland,Bosnia and Herzegovina,601,531,Win,First Stage,88.35
+400021446,Bosnia and Herzegovina,Switzerland,359,289,Loss,First Stage,80.5
+400021450,Canada,Qatar,575,535,Win,First Stage,93.04
+400021450,Qatar,Canada,166,107,Loss,First Stage,64.46
+400021442,Mexico,Korea Republic,432,360,Win,First Stage,83.33
+400021442,Korea Republic,Mexico,593,510,Loss,First Stage,86.0
+400021462,USA,Australia,531,465,Win,First Stage,87.57
+400021462,Australia,USA,308,238,Loss,First Stage,77.27
+400021454,Scotland,Morocco,460,403,Loss,First Stage,87.61
+400021454,Morocco,Scotland,676,612,Win,First Stage,90.53
+400021457,Brazil,Haiti,551,484,Win,First Stage,87.84
+400021457,Haiti,Brazil,402,338,Loss,First Stage,84.08
+400021460,Türkiye,Paraguay,666,594,Loss,First Stage,89.19
+400021460,Paraguay,Türkiye,171,92,Win,First Stage,53.8
+400021472,Netherlands,Sweden,447,398,Win,First Stage,89.04
+400021472,Sweden,Netherlands,438,377,Loss,First Stage,86.07
+400021469,Germany,Côte d'Ivoire,634,578,Win,First Stage,91.17
+400021469,Côte d'Ivoire,Germany,449,387,Loss,First Stage,86.19
+400021465,Ecuador,Curaçao,663,601,Draw,First Stage,90.65
+400021465,Curaçao,Ecuador,237,167,Draw,First Stage,70.46
+400021475,Tunisia,Japan,376,305,Loss,First Stage,81.12
+400021475,Japan,Tunisia,593,535,Win,First Stage,90.22
+400021483,Spain,Saudi Arabia,743,688,Win,First Stage,92.6
+400021483,Saudi Arabia,Spain,389,309,Loss,First Stage,79.43
+400021477,Belgium,IR Iran,637,562,Draw,First Stage,88.23
+400021477,IR Iran,Belgium,275,201,Draw,First Stage,73.09
+400021487,Uruguay,Cabo Verde,517,444,Draw,First Stage,85.88
+400021487,Cabo Verde,Uruguay,293,218,Draw,First Stage,74.4
+400021480,New Zealand,Egypt,437,355,Loss,First Stage,81.24
+400021480,Egypt,New Zealand,544,486,Win,First Stage,89.34
+400021494,Argentina,Austria,564,509,Win,First Stage,90.25
+400021494,Austria,Argentina,475,416,Loss,First Stage,87.58
+400021492,France,Iraq,604,553,Win,First Stage,91.56
+400021492,Iraq,France,502,431,Loss,First Stage,85.86
+400021491,Norway,Senegal,361,295,Win,First Stage,81.72
+400021491,Senegal,Norway,504,447,Loss,First Stage,88.69
+400021499,Jordan,Algeria,270,201,Loss,First Stage,74.44
+400021499,Algeria,Jordan,661,590,Win,First Stage,89.26
+400021503,Portugal,Uzbekistan,639,577,Win,First Stage,90.3
+400021503,Uzbekistan,Portugal,347,278,Loss,First Stage,80.12
+400021506,England,Ghana,652,605,Draw,First Stage,92.79
+400021506,Ghana,England,179,128,Draw,First Stage,71.51
+400021511,Panama,Croatia,356,282,Loss,First Stage,79.21
+400021511,Croatia,Panama,518,445,Win,First Stage,85.91
+400021501,Colombia,Congo DR,548,475,Win,First Stage,86.68
+400021501,Congo DR,Colombia,315,236,Loss,First Stage,74.92
+400021448,Bosnia and Herzegovina,Qatar,521,461,Win,First Stage,88.48
+400021448,Qatar,Bosnia and Herzegovina,457,388,Loss,First Stage,84.9
+400021451,Switzerland,Canada,471,389,Win,First Stage,82.59
+400021451,Canada,Switzerland,353,275,Loss,First Stage,77.9
+400021452,Morocco,Haiti,557,495,Win,First Stage,88.87
+400021452,Haiti,Morocco,265,212,Loss,First Stage,80.0
+400021455,Scotland,Brazil,520,466,Loss,First Stage,89.62
+400021455,Brazil,Scotland,615,571,Win,First Stage,92.85
+400021445,South Africa,Korea Republic,345,279,Win,First Stage,80.87
+400021445,Korea Republic,South Africa,718,657,Loss,First Stage,91.5
+400021444,Czechia,Mexico,423,352,Loss,First Stage,83.22
+400021444,Mexico,Czechia,394,340,Win,First Stage,86.29
+400021468,Curaçao,Côte d'Ivoire,369,312,Loss,First Stage,84.55
+400021468,Côte d'Ivoire,Curaçao,644,574,Win,First Stage,89.13
+400021466,Ecuador,Germany,389,325,Win,First Stage,83.55
+400021466,Germany,Ecuador,612,537,Loss,First Stage,87.75
+400021473,Tunisia,Netherlands,265,208,Loss,First Stage,78.49
+400021473,Netherlands,Tunisia,668,619,Win,First Stage,92.66
+400021471,Japan,Sweden,454,381,Draw,First Stage,83.92
+400021471,Sweden,Japan,410,330,Draw,First Stage,80.49
+400021461,Paraguay,Australia,418,345,Draw,First Stage,82.54
+400021461,Australia,Paraguay,526,446,Draw,First Stage,84.79
+400021459,Türkiye,USA,456,353,Win,First Stage,77.41
+400021459,USA,Türkiye,495,424,Loss,First Stage,85.66
+400021493,Senegal,Iraq,585,523,Win,First Stage,89.4
+400021493,Iraq,Senegal,280,200,Loss,First Stage,71.43
+400021489,Norway,France,448,366,Loss,First Stage,81.7
+400021489,France,Norway,549,492,Win,First Stage,89.62
+400021484,Uruguay,Spain,305,241,Loss,First Stage,79.02
+400021484,Spain,Uruguay,637,570,Win,First Stage,89.48
+400021485,Cabo Verde,Saudi Arabia,465,402,Draw,First Stage,86.45
+400021485,Saudi Arabia,Cabo Verde,455,370,Draw,First Stage,81.32
+400021481,New Zealand,Belgium,450,379,Loss,First Stage,84.22
+400021481,Belgium,New Zealand,530,475,Win,First Stage,89.62
+400021479,Egypt,IR Iran,588,525,Draw,First Stage,89.29
+400021479,IR Iran,Egypt,359,280,Draw,First Stage,77.99
+400021508,Panama,England,306,231,Loss,First Stage,75.49
+400021508,England,Panama,562,500,Win,First Stage,88.97
+400021509,Croatia,Ghana,538,487,Win,First Stage,90.52
+400021509,Ghana,Croatia,466,411,Loss,First Stage,88.2
+400021500,Congo DR,Uzbekistan,495,419,Win,First Stage,84.65
+400021500,Uzbekistan,Congo DR,378,283,Loss,First Stage,74.87
+400021505,Colombia,Portugal,547,491,Draw,First Stage,89.76
+400021505,Portugal,Colombia,456,421,Draw,First Stage,92.32
+400021497,Algeria,Austria,775,723,Draw,First Stage,93.29
+400021497,Austria,Algeria,405,355,Draw,First Stage,87.65
+400021495,Jordan,Argentina,300,239,Loss,First Stage,79.67
+400021495,Argentina,Jordan,824,762,Win,First Stage,92.48
+400021518,South Africa,Canada,575,486,Loss,Round of 32,84.52
+400021518,Canada,South Africa,390,314,Win,Round of 32,80.51
+400021516,Brazil,Japan,715,652,Win,Round of 32,91.19
+400021516,Japan,Brazil,330,279,Loss,Round of 32,84.55
+400021513,Germany,Paraguay,834,752,Loss,Round of 32,90.17
+400021513,Paraguay,Germany,264,166,Win,Round of 32,62.88
+400021522,Netherlands,Morocco,395,307,Loss,Round of 32,77.72
+400021522,Morocco,Netherlands,891,813,Win,Round of 32,91.25
+400021514,Côte d'Ivoire,Norway,406,353,Loss,Round of 32,86.95
+400021514,Norway,Côte d'Ivoire,492,442,Win,Round of 32,89.84
+400021523,France,Sweden,548,498,Win,Round of 32,90.88
+400021523,Sweden,France,365,296,Loss,Round of 32,81.1
+400021520,Mexico,Ecuador,317,259,Win,Round of 32,81.7
+400021520,Ecuador,Mexico,420,353,Loss,Round of 32,84.05
+400021512,England,Congo DR,523,482,Win,Round of 32,92.16
+400021512,Congo DR,England,392,326,Loss,Round of 32,83.16
+400021525,Belgium,Senegal,695,607,Win,Round of 32,87.34
+400021525,Senegal,Belgium,638,555,Loss,Round of 32,86.99
+400021524,USA,Bosnia and Herzegovina,425,362,Win,Round of 32,85.18
+400021524,Bosnia and Herzegovina,USA,459,381,Loss,Round of 32,83.01
+400021519,Spain,Austria,643,589,Win,Round of 32,91.6
+400021519,Austria,Spain,360,291,Loss,Round of 32,80.83
+400021526,Portugal,Croatia,588,538,Win,Round of 32,91.5
+400021526,Croatia,Portugal,386,330,Loss,Round of 32,85.49
+400021527,Switzerland,Algeria,451,371,Win,Round of 32,82.26
+400021527,Algeria,Switzerland,571,491,Loss,Round of 32,85.99
+400021515,Australia,Egypt,520,428,Loss,Round of 32,82.31
+400021515,Egypt,Australia,729,638,Win,Round of 32,87.52
+400021521,Argentina,Cabo Verde,862,800,Win,Round of 32,92.81
+400021521,Cabo Verde,Argentina,491,425,Loss,Round of 32,86.56
+400021517,Colombia,Ghana,598,540,Win,Round of 32,90.3
+400021517,Ghana,Colombia,390,329,Loss,Round of 32,84.36
+400021530,Canada,Morocco,368,282,Loss,Round of 16,76.63
+400021530,Morocco,Canada,499,420,Win,Round of 16,84.17
+400021533,Paraguay,France,191,108,Loss,Round of 16,56.54
+400021533,France,Paraguay,587,526,Win,Round of 16,89.61
+400021532,Brazil,Norway,347,298,Loss,Round of 16,85.88
+400021532,Norway,Brazil,683,627,Win,Round of 16,91.8
+400021531,Mexico,England,485,448,Loss,Round of 16,92.37
+400021531,England,Mexico,254,204,Win,Round of 16,80.31
+400021529,Portugal,Spain,459,378,Loss,Round of 16,82.35
+400021529,Spain,Portugal,548,490,Win,Round of 16,89.42
+400021534,USA,Belgium,553,483,Loss,Round of 16,87.34
+400021534,Belgium,USA,423,340,Win,Round of 16,80.38
+400021528,Argentina,Egypt,618,558,Win,Round of 16,90.29
+400021528,Egypt,Argentina,382,316,Loss,Round of 16,82.72
+400021535,Switzerland,Colombia,641,561,Win,Round of 16,87.52
+400021535,Colombia,Switzerland,562,462,Loss,Round of 16,82.21
+400021536,France,Morocco,497,450,Win,Quarter-final,90.54
+400021536,Morocco,France,539,469,Loss,Quarter-final,87.01
+400021538,Spain,Belgium,693,625,Win,Quarter-final,90.19
+400021538,Belgium,Spain,320,254,Loss,Quarter-final,79.38
+400021539,Norway,England,582,504,Loss,Quarter-final,86.6
+400021539,England,Norway,653,593,Win,Quarter-final,90.81
+400021537,Argentina,Switzerland,716,629,Win,Quarter-final,87.85
+400021537,Switzerland,Argentina,476,404,Loss,Quarter-final,84.87
+400021541,France,Spain,496,417,Loss,Semi-final,84.07
+400021541,Spain,France,517,439,Win,Semi-final,84.91
+400021540,England,Argentina,353,293,Loss,Semi-final,83.0
+400021540,Argentina,England,610,549,Win,Semi-final,90.0
+400021542,France,England,453,412,Loss,Bronze final,90.95
+400021542,England,France,535,479,Win,Bronze final,89.53
+400021543,Spain,Argentina,878,789,Win,Final,89.86
+400021543,Argentina,Spain,476,375,Loss,Final,78.78
