@@ -104,3 +104,4 @@ These findings indicate an **association between higher passing accuracy and win
 - `passing_random_sample_50.csv` – Random sample of 50 decisive matches used for inferential analysis
 - `passing_accuracy_boxplot.png` – Comparison of passing accuracy for winning and losing teams
 - `sample_passing_accuracy_difference.png` – Distribution of winner-minus-loser passing accuracy differences
+- - `screenshots/` – VS Code execution evidence showing successful data collection, data validation and final sample statistical analysis
