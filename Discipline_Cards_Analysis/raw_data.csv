@@ -1,0 +1,36 @@
+MatchID,Round,Date,Home,Away,Score,Stage,YC_Home,RC_Home,YC_Away,RC_Away,TotalCards,Minutes
+1,Group stage,2026-06-11,Mexico,South Africa,2–0,Group,1,1,2,2,6,90
+5,Group stage,2026-06-13,Qatar,Switzerland,1–1,Group,2,0,1,0,3,90
+6,Group stage,2026-06-13,Brazil,Morocco,1–1,Group,2,0,0,0,2,90
+10,Group stage,2026-06-14,Netherlands,Japan,2–2,Group,3,0,0,0,3,90
+11,Group stage,2026-06-14,Côte d'Ivoire,Ecuador,1–0,Group,3,0,1,0,4,90
+13,Group stage,2026-06-15,Belgium,Egypt,1–1,Group,2,0,2,0,4,90
+19,Group stage,2026-06-16,Argentina,Algeria,3–0,Group,0,0,0,0,0,90
+23,Group stage,2026-06-17,Ghana,Panama,1–0,Group,1,0,2,0,3,90
+29,Group stage,2026-06-19,USA,Australia,2–0,Group,3,0,4,0,7,90
+32,Group stage,2026-06-19,Brazil,Haiti,3–0,Group,1,0,3,0,4,90
+34,Group stage,2026-06-20,Germany,Côte d'Ivoire,2–1,Group,0,0,0,0,0,90
+35,Group stage,2026-06-20,Ecuador,Curaçao,0–0,Group,1,0,5,0,6,90
+40,Group stage,2026-06-21,New Zealand,Egypt,1–3,Group,2,0,1,0,3,90
+46,Group stage,2026-06-23,England,Ghana,0–0,Group,1,0,1,0,2,90
+48,Group stage,2026-06-23,Colombia,Congo DR,1–0,Group,2,0,1,0,3,90
+50,Group stage,2026-06-24,Bosnia–Herz,Qatar,3–1,Group,1,0,1,0,2,90
+51,Group stage,2026-06-24,Scotland,Brazil,0–3,Group,1,0,2,0,3,90
+55,Group stage,2026-06-25,Curaçao,Côte d'Ivoire,0–2,Group,2,0,1,0,3,90
+57,Group stage,2026-06-25,Tunisia,Netherlands,1–3,Group,0,0,0,0,0,90
+63,Group stage,2026-06-26,Uruguay,Spain,0–1,Group,3,1,1,0,5,90
+73,Round of 32,2026-06-28,South Africa,Canada,0–1,Knockout,0,0,2,0,2,90
+77,Round of 32,2026-06-30,Côte d'Ivoire,Norway,1–2,Knockout,0,0,1,0,1,90
+78,Round of 32,2026-06-30,France,Sweden,3–0,Knockout,0,0,0,0,0,90
+81,Round of 32,2026-07-01,Belgium,Senegal,3–2,Knockout,2,0,1,0,3,120
+82,Round of 32,2026-07-01,USA,Bosnia–Herz,2–0,Knockout,0,1,2,0,3,90
+84,Round of 32,2026-07-02,Portugal,Croatia,2–1,Knockout,1,0,2,0,3,90
+85,Round of 32,2026-07-02,Switzerland,Algeria,2–0,Knockout,0,0,2,0,2,90
+86,Round of 32,2026-07-03,Australia,Egypt,1–1 (4),Knockout,0,0,2,0,2,120
+88,Round of 32,2026-07-03,Colombia,Ghana,1–0,Knockout,2,0,3,0,5,90
+89,Round of 16,2026-07-04,Canada,Morocco,0–3,Knockout,4,0,4,0,8,90
+90,Round of 16,2026-07-04,Paraguay,France,0–1,Knockout,0,0,3,0,3,90
+97,Quarter-finals,2026-07-09,France,Morocco,2–0,Knockout,0,0,1,0,1,90
+98,Quarter-finals,2026-07-10,Spain,Belgium,2–1,Knockout,2,0,2,0,4,90
+102,Semi-finals,2026-07-15,England,Argentina,1–2,Knockout,1,0,3,0,4,90
+103,Third-place match,2026-07-18,France,England,4–6,Knockout,0,0,0,0,0,90
